@@ -4,4 +4,6 @@
 
 >> Deployed on https://tribute-page-eafzorfhxt.now.sh/paulwalker.html
 
+![Image of Paul Walker](https://github.com/KBPsystem777/tribute-page/blob/master/rememberpaulwalker.jpg?raw=true)
+
 
