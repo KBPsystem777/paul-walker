@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import Img from 'react-image';
 import 'w3-css/w3.css';
+import ReactTable from 'react-table';
+import 'react-table/react-table.css';
+
+
 
 class Header extends React.Component {
   render() {
