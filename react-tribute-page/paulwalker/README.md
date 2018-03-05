@@ -1,3 +1,11 @@
+# rememberingpaulwalker.now.sh
+> This is an in-progress `create-react-app` implementation of my FCC Tribute page for Paul Walker
+> Deployed via NOW web server
+
+-----
+-----
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
